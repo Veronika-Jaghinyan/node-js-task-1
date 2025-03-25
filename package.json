@@ -1,0 +1,14 @@
+{
+  "name": "node-js-task-1",
+  "version": "1.0.0",
+  "description": "Simply internship: Node.js Task 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node streams/index.mjs"
+  },
+  "author": "Veronika Jaghinyan",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
